@@ -1,0 +1,28 @@
+h1{
+    padding: 3px;;
+    text-align: center;
+    font-size: large;
+    color: gainsboro
+}
+
+body{
+    text-align: justify;
+    font-size: medium;
+    background-color:rgb(40, 158, 197);
+}
+div{
+background-color: cadetblue;
+border-style: dashed;
+border-color: darkkhaki;
+border-radius: 10px;
+}
+
+p{
+    font-style: normal;
+    border-radius: 30px;
+    border-top: 2px;
+}
+td{
+    text-align: center;
+}
+

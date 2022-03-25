@@ -1,0 +1,48 @@
+#hero{
+    background: url(narwhale.jpg);
+    background-color: #ccc;
+height: 200px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+    margin: 0;
+text-align: center;
+color: white;
+}
+
+#read{
+    border: 1px solid white;
+    background: gray;
+    padding: 20px;
+
+}
+
+#read:hover{
+    background-color: aliceblue;
+}
+
+.col{
+text-align: center;
+margin: 0px 10%;
+}
+
+.col p{
+    column-count: 2;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-color: rgb(red, green, blue);
+    padding: 71%;
+}
+
+.card{
+    width: 25%;
+    padding: 2px;
+    background-color: white;
+}
+.card img{
+
+}

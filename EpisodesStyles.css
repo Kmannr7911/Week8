@@ -1,0 +1,39 @@
+h1{
+    stroke: tan;
+    text-align: center;
+}
+body{
+    background-color: rgb(173, 146, 78);
+    align-items: flex-end;
+}
+.hov{
+    height: 100px;
+    width: 150px;
+    background-color: darkkhaki;
+}
+
+div{
+    background-color: blanchedalmond;
+    background-image: -moz-linear-gradient(200px);
+    image-rendering: auto;
+}
+p{
+    font-size: medium;
+    border-radius: 6px;
+}
+
+header{
+    text-align: center;
+    font-weight: 200;
+}
+h2{
+   text-align: center; 
+}
+
+.hov{
+grid-column: auto;
+}
+
+link{
+    text-align: center;
+}
