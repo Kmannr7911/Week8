@@ -1,17 +1,19 @@
 h1{
-    padding: 3px;;
+    padding: 3px;
+    text-decoration: underline;
     text-align: center;
-    font-size: large;
-    color: gainsboro
+    color: black;
 }
-
+h2{
+    text-decoration: underline;
+}
 body{
     text-align: justify;
     font-size: medium;
-    background-color:rgb(40, 158, 197);
+    background-color:bisque;
 }
 div{
-background-color: cadetblue;
+background-color: rgb(red, green, blue);
 border-style: dashed;
 border-color: darkkhaki;
 border-radius: 10px;
@@ -24,5 +26,12 @@ p{
 }
 td{
     text-align: center;
+}
+
+.center{
+    display: block;
+    margin-right:auto;
+    margin-left: auto;
+    width: 25%;
 }
 

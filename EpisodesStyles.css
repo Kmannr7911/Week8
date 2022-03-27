@@ -1,10 +1,11 @@
 h1{
     stroke: tan;
     text-align: center;
+    text-decoration: underline;
+    font-style: initial;
 }
 body{
-    background-color: rgb(173, 146, 78);
-    align-items: flex-end;
+    background-color: bisque;
 }
 .hov{
     height: 100px;
@@ -13,7 +14,6 @@ body{
 }
 
 div{
-    background-color: blanchedalmond;
     background-image: -moz-linear-gradient(200px);
     image-rendering: auto;
 }
@@ -24,16 +24,25 @@ p{
 
 header{
     text-align: center;
+    text-decoration: underline;
     font-weight: 200;
 }
 h2{
-   text-align: center; 
+    font-size: medium;
+    text-decoration: unset;   
 }
 
 .hov{
 grid-column: auto;
 }
 
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
 link{
-    text-align: center;
+    text-decoration: underline;
 }
